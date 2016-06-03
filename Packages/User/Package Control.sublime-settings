@@ -5,9 +5,26 @@
 	],
 	"installed_packages":
 	[
+		"AngularJS",
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"Boxy Theme",
+		"CSS Snippets",
+		"CSS3",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"HTML Snippets",
+		"HTML-CSS-JS Prettify",
 		"HTML5",
+		"HTMLBeautify",
+		"jQuery",
+		"JSLint",
+		"Markdown Preview",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"SublimeLinter"
+		"SublimeLinter",
+		"Tag",
+		"TrailingSpaces"
 	]
 }
